@@ -1,0 +1,6 @@
+POST http://192.168.1.16:3000/api/1
+Content-Type: application/json
+
+{
+      "wslr":3
+}
